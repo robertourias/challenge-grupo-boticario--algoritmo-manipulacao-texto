@@ -12,7 +12,7 @@ Os comandos por caracteres são:
 * [N]r<char>: atualiza N caracteres, começando pela posição do cursor, pelo <char> e move o cursor de posição.
 
 ## Exemplos:
-
+```
 Entrada de texto: Hello Grupo Boticario
 Comandos: hhlllllhihhi
 Saída: Hello Grupo Boticario - cursor: 3
@@ -32,7 +32,7 @@ Saída: Hello Grupo BoticariO - cursor: 20
 Entrada de texto: Hello Grupo Boticario
 Comandos: 21rA
 Saída: AAAAAAAAAAAAAAAAAAAAA - cursor: 20
-
+```
 
 # Explicação do Código:
 
